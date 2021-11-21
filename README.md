@@ -4,6 +4,8 @@ Simple Machine Learning Algorithm in TensorFlow2.0 using Linear Regression model
 **SUMMARY
 **
 
+Then most basic Neural Network model is based on Simple Linear Regression
+
 **Model**: Linear Regression
 
 **Algorithm**: Stochastic Gradient Descent
