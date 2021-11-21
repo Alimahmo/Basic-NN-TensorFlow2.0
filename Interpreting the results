@@ -1,0 +1,30 @@
+Train on 1000 samples
+Epoch 1/100
+1000/1000 - 1s - loss: 31.8701
+Epoch 2/100
+1000/1000 - 0s - loss: 1.1128
+Epoch 3/100
+1000/1000 - 0s - loss: 0.4097
+Epoch 4/100
+1000/1000 - 0s - loss: 0.3644
+Epoch 5/100
+1000/1000 - 0s - loss: 0.3921
+Epoch 6/100
+1000/1000 - 0s - loss: 0.3522
+Epoch 7/100
+1000/1000 - 0s - loss: 0.3735
+Epoch 8/100
+1000/1000 - 0s - loss: 0.3550
+Epoch 9/100
+1000/1000 - 0s - loss: 0.3836
+Epoch 10/100
+1000/1000 - 0s - loss: 0.3569
+-----------------------------------------------
+
+‘verbose=0’ stands for silent
+‘verbose=1’ stands for progress bar; we will get the info in text form
+‘verbose=2’ stands for ‘one line per epoch’
+
+-----------------------------------------------
+
+Extract the outputs (make predictions)
